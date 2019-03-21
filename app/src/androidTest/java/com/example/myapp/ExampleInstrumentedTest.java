@@ -24,4 +24,4 @@ public class ExampleInstrumentedTest {
         assertEquals("com.example.myapp", appContext.getPackageName());
     }
 }
-//text, and junk
+
