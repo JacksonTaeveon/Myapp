@@ -24,5 +24,4 @@ public class ExampleInstrumentedTest {
         assertEquals("com.example.myapp", appContext.getPackageName());
     }
 }
-//1st response
-//2nd response
+
